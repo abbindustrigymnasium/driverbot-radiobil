@@ -1,3 +1,11 @@
+# Jag kodar i eget repo, och avser skriva all kod själv
+- https://github.com/eritho23/radiobil
+
+
+
+
+
+
 # Driverbot template
 I det här repot hittar ni exempel kod att utgå från samt instruktioner när ni kodar i ert projekt.
 
